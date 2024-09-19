@@ -1,4 +1,4 @@
-# Quotes Scraping Game
+# Quotes Guessing Game
 
 ## Overview
 This Python script is a console-based game where players guess the author of a randomly selected quote from a website. It scrapes quotes from the [quotes.toscrape.com](https://quotes.toscrape.com) website, provides hints, and tracks game statistics.
